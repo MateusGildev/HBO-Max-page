@@ -9,7 +9,7 @@ body{
     background-image: linear-gradient(to right, rgb(47, 2, 121), rgb(121, 5, 189));
     color: rgb(223, 223, 223);
     text-align: center;
-    font-family: "Roboto", sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .logo img{
